@@ -1,0 +1,20 @@
+[
+  {
+    "name": "voicechat",
+    "filename": "voicechat-forge-1.20.1-2.6.4.jar",
+    "version": "2.6.4",
+    "url": "https://rotardesign.github.io/modpack.github.io/mods/voicechat-forge-1.20.1-2.6.4.jar"
+  },
+  {
+    "name": "journeymap",
+    "filename": "journeymap-1.20.1-5.10.3-forge.jar",
+    "version": "5.10.3",
+    "url": "https://rotardesign.github.io/modpack.github.io/mods/journeymap-1.20.1-5.10.3-forge.jar"
+  },
+  {
+    "name": "jei",
+    "filename": "jei-1.20.1-forge-15.20.0.116.jar",
+    "version": "15.20.0.116",
+    "url": "https://rotardesign.github.io/modpack.github.io/mods/jei-1.20.1-forge-15.20.0.116.jar"
+  }
+]
